@@ -28,3 +28,17 @@
 .cantainer__botao:checked ~ .lista-menu{
     display: block;
 }
+.lista-menu__titulo, .lista-menu__item{
+    padding: 1em;
+    background-color: var(--branco);
+}
+.lista-menu__titulo{
+    color: var(--azul);
+}
+.lista-menu__link{
+    background: var(--degrade);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-transform: uppercase;
+
+}
