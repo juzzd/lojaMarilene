@@ -1,10 +1,12 @@
 @import url("styles/header.css");
+@import url("styles/banner.css");
 :root{
     --cor-de-fundo: #FFC0E6;
     --branco: #FFFFFF;
     --azul:#6F64B8;
     --rosa:#EF98D7;
     --fonte-principal:"Poppins";
+    --rosa-escuro:#B9539C;
 }
 body{
     background-color: var(--cor-de-fundo);
