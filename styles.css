@@ -3,7 +3,7 @@
     --cor-de-fundo: #FFC0E6;
     --branco: #FFFFFF;
     --azul:#6F64B8;
-    --degrade:linear-gradient(160deg, #F576D2 35.49% #326589 165,37%);
+    --rosa:#EF98D7;
 }
 body{
     background-color: var(--cor-de-fundo)
