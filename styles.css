@@ -4,7 +4,11 @@
     --branco: #FFFFFF;
     --azul:#6F64B8;
     --rosa:#EF98D7;
+    --fonte-principal:"Poppins";
 }
 body{
-    background-color: var(--cor-de-fundo)
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }

@@ -35,8 +35,12 @@
 }
 .lista-menu__titulo{
     color: var(--azul);
+    font-weight: 700;
 }
 .lista-menu__link{
    color:  var(--rosa);
    text-transform: uppercase;
+}
+.cantainer__botao{
+    display: none;
 }
