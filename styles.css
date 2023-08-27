@@ -9,6 +9,7 @@
     --fonte-principal:"Poppins";
     --rosa-escuro:#B9539C;
     --roxo:#6C4672;
+    --azul-escuro: #002F52;
 }
 body{
     background-color: var(--cor-de-fundo);
